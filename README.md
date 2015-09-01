@@ -14,7 +14,7 @@ Requirements
 - IBM SPSS Modeler v16 or later
 - ‘R Essentials for SPSS Modeler’ plugin: [Download here][7]
  -  R 2.15.x or R 3.1
- - A Bluemix account with Watson Language Translation Service activated
+ - A Bluemix account with Watson Language Translation Service activated  
  
 ###### Note that the Watson Personality Insights requires *AT MINIMUM 100 words* to give output.
 - Results will be $null otherwise 
