@@ -1,5 +1,4 @@
 # Watson-Personality-Insights
-###Analyze text using Watson Personality Insights resulting in scores on 52 attributes
 
 This SPSS Modeler node allows you to easily send text to the Watson Personality Insights Service and get scores on 52 different personality attributes.  Watson Personality Insights allows users to derive insights from social media, enterprise data, or other digital communications. The service uses linguistic analytics to extract cognitive and social characteristics, including Big Five personality, values, and needs, from text. The results from Personality Insights can help businesses to understand their clients' preferences and improve customer satisfaction by anticipating customer needs and recommending the next best actions.  IBM SPSS Modeler can use the results from Personality Insights as additional predictors in machine learning models. To learn more about this service please visit the [IBM Watson Developer Cloud][2]   
 
@@ -16,7 +15,7 @@ Requirements
 - ‘R Essentials for SPSS Modeler’ plugin: [Download here][7]
  -  R 2.15.x or R 3.1
  - A Bluemix account with Watson Language Translation Service activated
- -  ###### Note that the Watson Personality Insights requires *AT MINIMUM 100 words* to give output.
+-###### Note that the Watson Personality Insights requires *AT MINIMUM 100 words* to give output.
     - Results will be $null otherwise 
     - Make sure there are no “\” in the data (including carriage return such as \r\n)
 
