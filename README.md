@@ -2,9 +2,9 @@
 
 This SPSS Modeler node allows you to easily send text to the Watson Personality Insights Service and get scores on 52 different personality attributes.  Watson Personality Insights allows users to derive insights from social media, enterprise data, or other digital communications. The service uses linguistic analytics to extract cognitive and social characteristics, including Big Five personality, values, and needs, from text. The results from Personality Insights can help businesses to understand their clients' preferences and improve customer satisfaction by anticipating customer needs and recommending the next best actions.  IBM SPSS Modeler can use the results from Personality Insights as additional predictors in machine learning models. To learn more about this service please visit the [IBM Watson Developer Cloud][2]   
 
-![Dialog](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Translate/master/Screenshot/Illustration1.png)
-![Output](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Translate/master/Screenshot/Illustration2.png)
-![ModelerStream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Translate/master/Screenshot/Illustration3.png)
+![Dialog](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Personality-Insights/master/Screenshot/Illustration1.png)
+![Output](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Personality-Insights/master/Screenshot/Illustration2.png)
+![ModelerStream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Watson-Personality-Insights/master/Screenshot/Illustration3.png)
 
 
 
